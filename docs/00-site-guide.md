@@ -488,6 +488,7 @@ Dependabot 每月检查 npm 和 GitHub Actions。收到更新 Pull Request 后�
 | 页面显示 404 | Pages 工作流、`baseUrl`、路由是否发布、部署是否完成 |
 | 搜索找不到文章 | 页面是否仍为草稿、生产构建是否完成、关键词是否存在 |
 | 样式只在暗色模式异常 | `custom.css` 中暗色变量和硬编码颜色 |
+| 页脚下方出现白色横条 | 页面级横向溢出、浏览器扩展注入元素，以及根节点的 `overflow-x` |
 | `npm ci` 失败 | Node/npm 版本、锁文件是否与 `package.json` 一致 |
 
 ### 15.3 不要用“放宽检查”修复问题

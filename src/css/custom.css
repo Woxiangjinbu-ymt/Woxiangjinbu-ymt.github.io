@@ -51,13 +51,22 @@
 }
 
 html {
+  max-width: 100%;
+  overflow-x: clip;
   scroll-behavior: smooth;
 }
 
 body {
+  max-width: 100%;
+  overflow-x: clip;
   color: var(--site-ink);
   background: var(--site-paper);
   text-rendering: optimizeLegibility;
+}
+
+#__docusaurus {
+  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 .container {

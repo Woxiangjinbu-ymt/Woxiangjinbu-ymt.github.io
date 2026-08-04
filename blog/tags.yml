@@ -1,0 +1,19 @@
+research-log:
+  label: 研究日志
+  permalink: /research-log
+  description: 带有明确时间背景的研究进展与思考。
+
+skill-learning-optimization:
+  label: Skill Learning & Optimization
+  permalink: /skill-learning-optimization
+  description: Agent 技能学习、评估与优化相关记录。
+
+retrospective:
+  label: 阶段复盘
+  permalink: /retrospective
+  description: 阶段性总结、选择与反思。
+
+site-building:
+  label: 网站建设
+  permalink: /site-building
+  description: 这个知识网站的设计、搭建和维护过程。

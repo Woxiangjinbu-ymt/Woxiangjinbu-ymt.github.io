@@ -1,0 +1,59 @@
+algorithms:
+  label: 算法
+  permalink: /algorithms
+  description: 算法与数据结构相关笔记。
+
+leetcode:
+  label: LeetCode
+  permalink: /leetcode
+  description: LeetCode 题目、专题和训练复盘。
+
+agent-fundamentals:
+  label: Agent 基础
+  permalink: /agent-fundamentals
+  description: LLM Agent 的基础概念、机制与方法。
+
+paper-notes:
+  label: 论文精读
+  permalink: /paper-notes
+  description: 按研究主题组织的论文精读笔记。
+
+skill-learning-optimization:
+  label: Skill Learning & Optimization
+  permalink: /skill-learning-optimization
+  description: Agent 技能学习、评估和优化。
+
+agent-evaluation:
+  label: Agent Evaluation
+  permalink: /agent-evaluation
+  description: Agent 评估方法、指标与基准。
+
+research-log:
+  label: 研究记录
+  permalink: /research-log
+  description: 可公开的研究总览与进展索引。
+
+cs-fundamentals:
+  label: CS 基础
+  permalink: /cs-fundamentals
+  description: 操作系统、网络、数据库与系统设计。
+
+mlsys:
+  label: MLSys
+  permalink: /mlsys
+  description: 机器学习系统相关笔记。
+
+llm-infra:
+  label: LLM Infra
+  permalink: /llm-infra
+  description: 训练、推理、部署和 RAG 工程化。
+
+career:
+  label: 求职与成长
+  permalink: /career
+  description: 公开且脱敏的求职经验与成长记录。
+
+retrospective:
+  label: 阶段复盘
+  permalink: /retrospective
+  description: 阶段性总结和反思。

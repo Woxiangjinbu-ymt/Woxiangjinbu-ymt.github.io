@@ -127,7 +127,10 @@ const config: Config = {
           items: [
             {label: '求职与成长', to: '/docs/career'},
             {label: '学习时间线', to: '/blog'},
-            {label: 'RSS', to: '/blog/rss.xml'},
+            {
+              label: 'RSS',
+              href: 'https://woxiangjinbu-ymt.github.io/blog/rss.xml',
+            },
           ],
         },
         {

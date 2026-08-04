@@ -1,5 +1,5 @@
 {
   "label": "工程技术",
   "position": 30,
-  "link": {"type": "doc", "id": "03-engineering/index"}
+  "link": {"type": "doc", "id": "engineering/index"}
 }

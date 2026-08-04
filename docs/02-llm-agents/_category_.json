@@ -1,5 +1,5 @@
 {
   "label": "LLM Agent 科研",
   "position": 20,
-  "link": {"type": "doc", "id": "02-llm-agents/index"}
+  "link": {"type": "doc", "id": "llm-agents/index"}
 }

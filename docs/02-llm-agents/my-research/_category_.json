@@ -1,5 +1,5 @@
 {
   "label": "我的研究",
   "position": 30,
-  "link": {"type": "doc", "id": "02-llm-agents/my-research/research-overview"}
+  "link": {"type": "doc", "id": "llm-agents/my-research/research-overview"}
 }

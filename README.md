@@ -4,6 +4,8 @@
 
 网站以知识领域组织稳定、可复用的笔记，以时间线记录阶段性思考。当前内容覆盖算法、LLM 与 Agent、软件工程和职业发展，后续可以随着学习与工作持续扩展。
 
+日常写作、版本升级、设计修改、故障处理和发布回退的完整流程见 [`docs/00-site-guide.md`](docs/00-site-guide.md)。
+
 ## 技术栈
 
 - [Docusaurus 3](https://docusaurus.io/) + React + TypeScript
@@ -37,6 +39,7 @@ npm run build
 
 ```text
 docs/                 按领域组织的长期知识库
+  00-site-guide.md     网站使用与维护指南
   algorithms/         算法与数据结构
   llm-agents/         LLM、Agent 与个人研究
   engineering/        软件工程实践

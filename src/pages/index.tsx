@@ -69,7 +69,9 @@ function DomainSection() {
         <div className={styles.sectionHeading}>
           <div>
             <p className={styles.sectionIndex}>01 / KNOWLEDGE DOMAINS</p>
-            <Heading as="h2" id="domains-title">按领域生长，而不是按阶段归档</Heading>
+            <Heading as="h2" id="domains-title" className={styles.domainHeading}>
+              按领域生长，而不是按阶段归档
+            </Heading>
           </div>
           <p>稳定的分类树承载长期知识，标签负责连接跨领域的线索。</p>
         </div>

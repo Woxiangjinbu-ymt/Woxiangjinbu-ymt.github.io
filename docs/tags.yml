@@ -57,3 +57,8 @@ retrospective:
   label: 阶段复盘
   permalink: /retrospective
   description: 阶段性总结和反思。
+
+site-maintenance:
+  label: 网站维护
+  permalink: /site-maintenance
+  description: 个人网站的使用、开发、发布与长期维护。

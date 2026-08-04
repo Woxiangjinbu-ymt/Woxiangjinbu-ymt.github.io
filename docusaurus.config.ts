@@ -125,6 +125,7 @@ const config: Config = {
         {
           title: '记录',
           items: [
+            {label: '网站使用指南', to: '/docs/site-guide'},
             {label: '求职与成长', to: '/docs/career'},
             {label: '学习时间线', to: '/blog'},
             {

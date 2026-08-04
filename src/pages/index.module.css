@@ -63,6 +63,9 @@
 .heroTitle span {
   display: block;
   color: var(--ifm-color-primary);
+  font-size: clamp(2rem, 4.5vw, 4.2rem);
+  letter-spacing: -0.045em;
+  white-space: nowrap;
 }
 
 .heroDescription {
@@ -225,6 +228,12 @@
   font-size: clamp(2rem, 4vw, 3.6rem);
   letter-spacing: -0.045em;
   line-height: 1.15;
+}
+
+.sectionHeading h2.domainHeading {
+  font-size: clamp(1.35rem, 3.5vw, 3.25rem);
+  letter-spacing: -0.055em;
+  white-space: nowrap;
 }
 
 .sectionHeading > p {

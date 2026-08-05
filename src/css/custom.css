@@ -22,6 +22,7 @@
   --site-paper: #f7f4ec;
   --site-paper-light: #fbf9f3;
   --site-paper-deep: #f0ecdf;
+  --site-footer-background: #10201e;
   --site-muted: #66716e;
   --site-faint: #8d9693;
   --site-border: rgba(25, 48, 46, 0.13);
@@ -53,20 +54,28 @@
 html {
   max-width: 100%;
   overflow-x: clip;
+  overscroll-behavior-y: none;
+  background: var(--site-footer-background);
   scroll-behavior: smooth;
 }
 
 body {
   max-width: 100%;
   overflow-x: clip;
+  overscroll-behavior-y: none;
   color: var(--site-ink);
-  background: var(--site-paper);
+  background: var(--site-footer-background);
   text-rendering: optimizeLegibility;
 }
 
 #__docusaurus {
   min-height: 100vh;
   min-height: 100dvh;
+  background: var(--site-footer-background);
+}
+
+.main-wrapper {
+  background: var(--site-paper);
 }
 
 .container {
@@ -103,7 +112,7 @@ body {
 
 .footer {
   border-top: 1px solid rgba(255, 255, 255, 0.08);
-  background: #10201e;
+  background: var(--site-footer-background);
 }
 
 .footer__title {

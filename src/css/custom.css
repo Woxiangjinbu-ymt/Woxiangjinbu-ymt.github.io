@@ -159,9 +159,17 @@ body {
 }
 
 @media (min-width: 1200px) {
-  .blog-post-page .main-wrapper > .container {
+  :is(.blog-post-page, .blog-list-page) .main-wrapper > .container {
     width: calc(100vw - 4rem);
     max-width: 1540px;
+  }
+
+  .blog-list-page .main-wrapper > .container > .row > aside.col--3 {
+    --ifm-col-width: 19.48%;
+  }
+
+  .blog-list-page .main-wrapper > .container > .row > main.col--7 {
+    --ifm-col-width: 80.52%;
   }
 
   .blog-post-page .main-wrapper > .container > .row > aside.col--3 {

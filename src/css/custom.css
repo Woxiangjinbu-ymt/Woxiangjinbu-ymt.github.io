@@ -159,29 +159,33 @@ body {
 }
 
 @media (min-width: 1200px) {
+  .docs-doc-page .main-wrapper main > .container {
+    max-width: 1374px;
+  }
+
   :is(.blog-post-page, .blog-list-page) .main-wrapper > .container {
     width: calc(100vw - 4rem);
-    max-width: 1540px;
+    max-width: 1674px;
   }
 
   .blog-list-page .main-wrapper > .container > .row > aside.col--3 {
-    --ifm-col-width: 19.48%;
+    --ifm-col-width: 17.92%;
   }
 
   .blog-list-page .main-wrapper > .container > .row > main.col--7 {
-    --ifm-col-width: 80.52%;
+    --ifm-col-width: 82.08%;
   }
 
   .blog-post-page .main-wrapper > .container > .row > aside.col--3 {
-    --ifm-col-width: 19.48%;
+    --ifm-col-width: 17.92%;
   }
 
   .blog-post-page .main-wrapper > .container > .row > main.col--7 {
-    --ifm-col-width: 60.39%;
+    --ifm-col-width: 61.56%;
   }
 
   .blog-post-page .main-wrapper > .container > .row > main.col--7 + .col--2 {
-    --ifm-col-width: 20.13%;
+    --ifm-col-width: 20.52%;
   }
 
   .blog-post-page .table-of-contents__link {

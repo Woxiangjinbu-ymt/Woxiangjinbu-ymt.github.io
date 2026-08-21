@@ -4,7 +4,7 @@ description: "从整体架构、MLA、DeepSeekMoE、训练流程、工程优化�
 slug: /2026/08/20/deepseek-v2-paper-reading
 date: 2026-08-20
 authors: [ymt]
-tags: [research-log, DeepSeek-V2, MoE, MLA, LLM]
+tags: [research-log]
 ---
 
 # DeepSeek-V2 精读报告

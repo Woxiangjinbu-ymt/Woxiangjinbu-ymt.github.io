@@ -1,5 +1,5 @@
 ---
-title: "论文精读：DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model"
+title: "论文精读——强大、经济且高效的混合专家语言模型
 description: "从整体架构、MLA、DeepSeekMoE、训练流程、工程优化和证据边界理解 DeepSeek-V2"
 slug: /2026/08/20/deepseek-v2-paper-reading
 date: 2026-08-20
